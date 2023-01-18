@@ -4,12 +4,7 @@ const LoginForm = () => {
   return (
     <div className="container">
       <div className="card">
-        <div className="card-image">
-          <h2 className="card-heading">
-            Get started
-            <small>Let us create your account</small>
-          </h2>
-        </div>
+        <div className="card-image" />
         <form className="card-form" autoComplete="off">
           <div className="input">
             <input type="email" className="input-field" required />

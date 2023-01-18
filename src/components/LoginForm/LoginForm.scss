@@ -43,7 +43,7 @@ input {
   border-radius: 8px;
   overflow: hidden;
   padding-bottom: 65%;
-  background-image: url("https://assets.codepen.io/285131/coffee_1.jpg");
+  background-image: url("https://techvccloud.mediacdn.vn/2020/8/14/148-15974015288501803718399-crop-15974015349661210457462.png");
   background-repeat: no-repeat;
   background-size: 150%;
   background-position: 0 5%;
@@ -101,9 +101,9 @@ input {
   &:focus,
   &:valid {
     outline: 0;
-    border-bottom-color: #6658d3;
+    border-bottom-color: #0095ff;
     & + .input-label {
-      color: #6658d3;
+      color: #0095ff;
     }
   }
 }
@@ -119,7 +119,7 @@ input {
   padding: 1em;
   width: 100%;
   font-weight: 500;
-  background-color: #6658d3;
+  background-color: #0095ff;
   border-radius: 6px;
   color: #fff;
   border: 0;
@@ -135,7 +135,7 @@ input {
   color: #8597a3;
   a {
     display: block;
-    color: #6658d3;
+    color: #0095ff;
     text-decoration: none;
   }
 }
